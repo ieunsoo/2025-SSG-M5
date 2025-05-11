@@ -20,8 +20,9 @@ Obsidian을 활용하여 학습한 내용을 Markdown 노트로 기록하고, Gi
 ## 🚀 시작하기
 ### 📌 저장소 클론
 ```bash
-git clone https://github.com/DeveloperAcademy-POSTECH/SSG-Team1.git
-cd SSG-Team1.git
+git clone [https://github.com/DeveloperAcademy-POSTECH/SSG-Team1.git](https://github.com/DeveloperAcademy-POSTECH/2025-SSG-M5.git)
+cd 2025-SSG-M5.git
+
 // obsidian 저장소의 vault를 해당 디렉토리로 설정해주세요!
 ```
 
